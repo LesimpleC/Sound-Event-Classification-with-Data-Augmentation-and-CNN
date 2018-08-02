@@ -110,4 +110,4 @@ Similar to a time series classification task. The kernel will go once over the s
 * Samples arranged as a 3 channel sample don't improve the results so much and are quite expensive in computing time.
 
 
-<img src="images/results.png" width="800">
+<img src="images/results.PNG" width="800">
