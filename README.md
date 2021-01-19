@@ -10,8 +10,6 @@ This repository will focus on the influence of the audio feature selection on th
 
 <img src="images/wave_spectg.png">
 
-![](https://github.com/LesimpleC/Sound-Event-Classification-with-Data-Augmentation-and-CNN/tree/master/images/wave_spectg.png)
-
 __Figure 1:__ Bird chirps in the forest represented in a waveform and spectrogram
 
 This raw waveform, sampled at 44,100Hz, generates 220500 data points.  The data dimensions for one 5s sound sample might therefore be too large without containing the relevant information.  However, they can be reduced by adjusting the temporal and frequency resolution and by extracting relevant features.
